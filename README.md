@@ -3,11 +3,11 @@
 
 Handson on data cleaning (Task - Spotting the Outlier and Removing it from the given data)
 
-Data Source : mbta.xlsx
+Data Source : mbta.xlsx |
 Code Snippet : RBostonPublicTransitDataFile.R
 
 Output Saved in : 
-OutlierSpotted.png
+OutlierSpotted.png |
 OutlierRemoved.png
 
 
